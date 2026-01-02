@@ -35,6 +35,7 @@ Navigate directly to specific documentation:
 10. [**Complete Workflow**](10_COMPLETE_WORKFLOW.md) — **Full workflow diagram & state machine**
 11. [Additional Systems](11_ADDITIONAL_SYSTEMS.md) — Artifacts, MCP, Git, Deployments, etc.
 12. [**Supplementary Extraction**](12_SUPPLEMENTARY_EXTRACTION.md) — **Models, parameters, ConfidenceScore, ephemeral messages**
+13. [**Model Routing**](13_MODEL_ROUTING.md) — **Model selection, fallbacks, token budgets, feature flags**
 
 ---
 
@@ -55,6 +56,7 @@ Navigate directly to specific documentation:
 | Model Parameters               | ✅     | Temperature, sampling, token limits  |
 | ConfidenceScore System         | ✅     | Complete 6-question grading system   |
 | Ephemeral Messages             | ✅     | Full structure and task reminders    |
+| Model Routing Config           | ✅     | Fallbacks, token budgets, aliases    |
 
 ---
 
@@ -116,6 +118,7 @@ Navigate directly to specific documentation:
 | [`10_COMPLETE_WORKFLOW.md`](10_COMPLETE_WORKFLOW.md)  | **Complete workflow, state machine, step types**   |
 | [`11_ADDITIONAL_SYSTEMS.md`](11_ADDITIONAL_SYSTEMS.md)| Artifacts, MCP, Git, Deployments, Rate Limits      |
 | [`12_SUPPLEMENTARY_EXTRACTION.md`](12_SUPPLEMENTARY_EXTRACTION.md)| **Models, sampling params, ConfidenceScore, ephemeral** |
+| [`13_MODEL_ROUTING.md`](13_MODEL_ROUTING.md)                      | **Model routing, fallbacks, token budgets, feature flags** |
 
 ---
 
